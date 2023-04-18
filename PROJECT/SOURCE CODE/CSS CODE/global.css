@@ -1,0 +1,172 @@
+/*
+====================================================================================================================================================================
+                                                    Start Global Properties 
+====================================================================================================================================================================
+*/
+body {
+    font-family: roboto;
+}
+
+header {
+	width: 100%;
+	height: 80px;
+	background: #172035;
+}
+
+img#logo { 
+    margin-left: 50px;
+    margin-right: 500px;
+    position: absolute;
+    top: 17px;
+    left: 0;
+}
+
+nav {
+    display: inline-block;
+    margin-left: 400px;
+    margin-top: 30px;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+	font-weight: 2em;
+	font-family: 'roboto';
+	margin-right: 20px;
+    padding: 30px;
+}
+
+a:hover {
+    color: white;
+    background: #09568d;  
+    padding: 30px;
+}
+
+button {
+    width: 50%;
+    height: 50px;
+    background: #172035;
+    color: white;
+    font-size: 2em;
+    border:none;
+}
+
+button:hover {
+    background: #09568d;
+}
+img#L1 {
+    position: absolute;
+width: 272px;
+height: 337px;
+left: 0px;
+top: 216px;
+}
+
+img#L2 {
+    position: absolute;
+width: 274px;
+height: 404px;
+left: 295px;
+top: 113px;
+}
+
+img#L3 {
+    position: absolute;
+width: 276px;
+height: 451px;
+left: 594px;
+top: 182px;
+}
+
+img#L4 {
+    position: absolute;
+width: 300px;
+height: 384px;
+left: 893px;
+top: 113px;
+}
+
+img#L5 {
+    position: absolute;
+width: 400px;
+height: 267px;
+left: 57px;
+top: 633px;
+}
+
+img#L6 {
+    position: absolute;
+width: 400px;
+height: 267px;
+left: 493px;
+top: 721px;
+}
+
+img#L7 {
+    position: absolute;
+width: 400px;
+height: 400px;
+left: 978px;
+top: 553px;
+}
+
+img#D1 {
+    position: absolute;
+width: 60px;
+height: 61px;
+left: 212px;
+top: 492px;
+}
+
+img#D2 {
+    position: absolute;
+width: 60px;
+height: 61px;
+left: 509px;
+top: 456px;
+}
+
+img#D3 {
+    position: absolute;
+width: 60px;
+height: 61px;
+left: 810px;
+top: 572px;
+}
+
+img#D4 {
+    position: absolute;
+width: 60px;
+height: 61px;
+left: 1133px;
+top: 436px;
+}
+
+img#D5 {
+    position: absolute;
+width: 60px;
+height: 61px;
+left: 397px;
+top: 839px;
+}
+
+img#D6 {
+    position: absolute;
+width: 60px;
+height: 61px;
+left: 833px;
+top: 927px;
+}
+
+img#D7 {
+    position: absolute;
+width: 60px;
+height: 61px;
+left: 1318px;
+top: 892px;
+}
+/*
+====================================================================================================================================================================
+                                                    End Global Properties 
+====================================================================================================================================================================
+*/
